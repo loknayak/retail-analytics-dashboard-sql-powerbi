@@ -85,6 +85,6 @@ The dashboard includes 4 main visuals:
 
 **Lok Nayak**  
 🔗 [GitHub](https://github.com/loknayak)  
-✉️ (You can add your email here optionally)
+✉️ (jaivardhan29t@gmail.com)
 
 ---
