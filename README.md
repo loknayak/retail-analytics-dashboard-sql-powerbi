@@ -1,6 +1,3 @@
-# retail-analytics-dashboard-sql-powerbi
-A data visualization project using SQL and Power BI to analyze retail sales and profits (2014–2017).
-
 # 🛒 Retail Analytics Dashboard (2014–2017)
 
 A data visualization project using **SQL** and **Power BI** to analyze retail sales and profits between **2014–2017**.
