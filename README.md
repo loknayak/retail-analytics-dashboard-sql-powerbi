@@ -60,7 +60,7 @@ The dashboard includes 4 main visuals:
 3. **Sales Distribution by Region** – A bar chart showing sales across regions  
 4. **Year-wise Sales Trend (2014–2017)** – A line graph showing yearly performance  
 
-![Dashboard Preview](Assets/Screenshot (63).png)
+![Dashboard Preview](Assets/Screenshot(63).png)
 
 ---
 
